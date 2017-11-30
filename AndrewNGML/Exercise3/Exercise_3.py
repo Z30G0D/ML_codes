@@ -2,6 +2,9 @@ import numpy as np
 from scipy.io import loadmat
 from scipy.optimize import minimize
 
+# for debugging - seeing entire array
+#np.set_printoptions(threshold=np.inf)
+
 data = loadmat("ex3data1.mat")
 
 
@@ -10,11 +13,11 @@ def sigmoid(z):
     return 1/(1+np.exp(-z))
 
 
-def cost(theta,X, y, lamb):
+def cost(theta, X, y, lamb):
     """"computing the cost function according to logistic regression including regularization term"""
     # Avoiding loops , vectorized approach
     X = np.matrix(X)
-    m=len(X)
+    m = len(X)
     y = np.matrix(y)
     theta = np.matrix(theta)
     # first term including y=1 classes
@@ -34,8 +37,9 @@ def gradients(X, y, theta, lamb):
     y = np.matrix(y)
     theta = np.matrix(theta)
     m = len(X)
-    # create parameters(thetas) update pattern
+    # counting number of parameters
     param = theta.ravel().shape[1]
+    # for looping
     param = int(param)
 
     grads = np.zeros(param)
@@ -51,27 +55,39 @@ def gradients(X, y, theta, lamb):
             break
         else:
             grads[k] = (np.sum(all_terms) / m) + ((lamb / m) * theta[:, k])
-    return grads
+    return grads.T
 
 
-def one_vs_all(X, y, num_labels, learning_rate):
-    rows = X.shape[0]
+def onevsall(X, y, num_labels, lamb):
+
+    # number of columns (features)
     params = X.shape[1]
+    # creating a theta matrix (rows as number of calsses , columns as number of parameters)
+    theta_vector = np.zeros((num_labels, params + 1))
 
-    # k X (n + 1) array for the parameters of each of the k classifiers
-    all_theta = np.zeros((num_labels, params + 1))
+    # number of rows (examples)
+    rows = X.shape[0]
 
-    # insert a column of ones at the beginning for the intercept term
+    # according to the pdf exercise , insert the bias term (intercept)
     X = np.insert(X, 0, values=np.ones(rows), axis=1)
 
-    # labels are 1-indexed instead of 0-indexed
+    # For one vs all we go through each class and classify it as 1, and all other as 0. so y is a vector of
     for i in range(1, num_labels + 1):
-        theta = np.zeros(params + 1)
+        # initialize theta for minimizing function
+        theta = np.zeros(params + 1).T
+        # creating a y specific for our i category
         y_i = np.array([1 if label == i else 0 for label in y])
         y_i = np.reshape(y_i, (rows, 1))
 
-        # minimize the objective function
-        fmin = minimize(fun=cost, x0=theta, args=(X, y_i, learning_rate), method='TNC', jac=gradient)
-        all_theta[i - 1, :] = fmin.x
+        # minimize the objective function -taken from scipy documentation
+        # need to debug this one
+        fmin = minimize(fun=cost, x0=theta, args=(X, y_i, lamb), method='TNC', jac=gradients)
+        theta_vector[i - 1, :] = fmin.x
 
-    return all_theta
+    return theta_vector
+
+# note to self: checking sizes of matrices called by fmin
+# training the algorithm
+theta_final = onevsall(data['X'], data['y'], 10, 1)
+
+
