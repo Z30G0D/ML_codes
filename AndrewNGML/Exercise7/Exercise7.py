@@ -17,8 +17,18 @@ def closest_centroids(X, Centroids):
                 final_dist = dist
                 idx[i] = j
     return idx
-def compute_centroids(X, centroids ,idx):
 
+
+def compute_centroids(X, k, idx):
+    m, n = X.shape
+    centroids = np.zeros((k, n))
+
+    for i in range(k):
+        # finding the correlated point for the current centroid
+        indices = np.where(idx == i)
+        centroids[i, :] = (np.sum(X[indices, :], axis=1) / len(indices[0])).ravel()
+
+    return centroids
 
 
 mydata = loadmat('ex7/ex7data2.mat')
