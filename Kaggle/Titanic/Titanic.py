@@ -27,18 +27,21 @@ def plot_embarked(data):
 
 def plot_age(data):
     figure = plt.figure(figsize=(15, 8))
-    plt.hist([data[data['Survived'] == 1]['Age'], data[data['Survived'] == 0]['Age']], stacked=True, color=['g', 'r'],
+    plt.hist([data[data['Survived'] == 1]['Age'], data[data['Survived'] == 0]['Age']], stacked=True, color=['b', 'r'],
              bins=30)
     plt.show()
     #print(survived)
 
     return 0
+
+
 data = pd.read_csv('train.csv')
+data1 = data
 y = np.matrix(data['Survived'])
+# filling missing ages
 data['Age'].fillna(data['Age'].median(), inplace=True)
 # Plotting Survival as a function of sex
 #plot_sex(data)
 # plotting survival as a function of embarking port
 #plot_embarked(data)
 # plotting survival as function og age
-plot_age(data)
