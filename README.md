@@ -5,4 +5,6 @@ I implemented the codes in Python (The course tasks are in Matlab) and assisted 
 
 
 My online notebooks:
-<a href="http://nbviewer.jupyter.org/gist/Z30G0D/62196e42a52fb43902a0961f0686a251">My Titanic notebook</a>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/62196e42a52fb43902a0961f0686a251">Titanic notebook (updated 28.12.17)</a>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/46acd6dd022a653e7ce7c65466e9d959">Housing prices Notebook (Updated 1.1.18)</a>
+
