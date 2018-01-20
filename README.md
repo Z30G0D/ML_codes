@@ -7,6 +7,12 @@ I implemented the codes in Python (The course tasks are in Matlab) and assisted 
 
 
 # My online notebooks:
+<br>
+## Anderw NG coursera Machine Learning
+<br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/b19edf0152890d637635d124f8504998">Exercise 3 -Multi Class classification for hand written letters</a> 
+
+
 ## Kaggle competitions
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/62196e42a52fb43902a0961f0686a251">Titanic notebook (updated 28.12.17)</a> 
 <br>
