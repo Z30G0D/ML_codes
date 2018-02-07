@@ -7,6 +7,9 @@ I implemented the codes in Python (The course tasks are in Matlab) and assisted 
 
 
 # My online notebooks:
+## Different Challenges:
+<br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/ac0fe3f4ecba5a604841f57c0b04498f"> Elipse detector</a>
 ## Anderw NG coursera Machine Learning
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/91181130c7f238ae901fa92abcd84007">Exercise 1 - Linear Regression and cost function visualization</a>
