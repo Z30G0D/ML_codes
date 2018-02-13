@@ -10,6 +10,7 @@ I implemented the codes in Python (The course tasks are in Matlab) and assisted 
 ## Different Challenges:
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/ac0fe3f4ecba5a604841f57c0b04498f"> Elipse detector</a><br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/7aef18b1407a9cbbf89ff7dc740a3518">Naive Bayes classifier</a><br><br>
 
 
 ## Anderw NG coursera Machine Learning
