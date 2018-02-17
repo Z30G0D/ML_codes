@@ -17,6 +17,7 @@ I implemented the codes in Python (The course tasks are in Matlab) and assisted 
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/91181130c7f238ae901fa92abcd84007">Exercise 1 - Linear Regression and cost function visualization</a>
 <br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/735843c2db8c34f363cfeae4bf9b6ef9"> Exercise 2 - Logistic regression, and polynomial features for non linear decision boundary</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/b19edf0152890d637635d124f8504998">Exercise 3 -Multi Class classification for hand written letters</a> 
 
 
