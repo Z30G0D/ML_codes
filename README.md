@@ -22,6 +22,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/735843c2db8c34f363cfeae4bf9b6ef9"> Exercise 2 - Logistic regression, and polynomial features for non linear decision boundary</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/b19edf0152890d637635d124f8504998">Exercise 3 -Multi Class classification for hand written letters</a> 
+<br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/a9065d3277c1d70c62aa98c8513d4dbd">Exercise 4 -3 layers neural network with feedforward and backpropagation for hand written letters</a><br>
 
 
 ## Kaggle competitions
