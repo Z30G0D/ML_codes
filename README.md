@@ -15,6 +15,11 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/ac0fe3f4ecba5a604841f57c0b04498f"> Elipse detector</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/7aef18b1407a9cbbf89ff7dc740a3518">Naive Bayes classifier</a><br><br>
 
+## OpenCV 101: A Practical Guide to the Open Computer Vision Library
+<br>
+<a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session1.ipynb"> OpenCV session 1</a><br>
+
+
 
 ## Anderw NG coursera Machine Learning
 <br>
