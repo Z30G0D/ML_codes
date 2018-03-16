@@ -18,7 +18,14 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 ## OpenCV 101: A Practical Guide to the Open Computer Vision Library
 <br>
 <a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session1.ipynb"> OpenCV session 1</a><br>
+<a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session2.ipynb"> OpenCV session 2</a><br>
+<a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session3.ipynb"> OpenCV session 3</a><br>
+<a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session4.ipynb"> OpenCV session 4</a><br>
 
+<a href="https://www.youtube.com/watch?v=jKtQxvzp1A0">Class session 1</a><br>
+<a href="https://www.youtube.com/watch?v=QZFx9bXEjQY">Class session 2</a><br>
+<a href="https://www.youtube.com/watch?v=Lww8Uy0fIWI">Class session 3</a><br>
+<a href="https://www.youtube.com/watch?v=ZXctVPGkoxg">Class session 4</a><br>
 
 
 ## Anderw NG coursera Machine Learning
