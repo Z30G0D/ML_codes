@@ -37,6 +37,9 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/a9065d3277c1d70c62aa98c8513d4dbd">Exercise 4 -3 layers neural network with feedforward and backpropagation for hand written letters</a><br>
 
+## Andrew NG -deeplearning.ai<br>
+# Convlutional neural networks<br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/83f6ef14424fe5f04add12b78197d9db"> Convolutional Neural Networks: Step by Step - PA 1</a><br>
 
 ## Kaggle competitions
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/62196e42a52fb43902a0961f0686a251">Titanic notebook (updated 28.12.17)</a> 
