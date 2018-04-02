@@ -40,7 +40,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 ## Andrew NG -deeplearning.ai<br>
 ### Convlutional neural networks<br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/83f6ef14424fe5f04add12b78197d9db"> Convolutional Neural Networks: Step by Step - PA 1</a><br>
-<a href="http://nbviewer.jupyter.org/gist/Z30G0D/e5cdb395cb23049869c626a2bc3939f3"> Convolutional Neural Networks: Application - PA 2 - updated 15.3.18</a>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/e5cdb395cb23049869c626a2bc3939f3"> Convolutional Neural Networks: Application - PA 2 - updated 15.3.18</a><br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/5b59430cc774eb22076c54ab6933ac02"> Convolutional Neural Networks: YOLO algorithm - PA 3</a>
 
 ## Kaggle competitions
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/62196e42a52fb43902a0961f0686a251">Titanic notebook (updated 28.12.17)</a> 
