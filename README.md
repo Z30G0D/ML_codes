@@ -39,7 +39,9 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/a9065d3277c1d70c62aa98c8513d4dbd">Exercise 4 -3 layers neural network with feedforward and backpropagation for hand written letters</a><br>
 
-## Andrew NG -deeplearning.ai<br>
+## Deeplearning.ai<br>
+### Hyperparameters tuning, regularization and optimization
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/aa7bea87f692bd99bfaa5a0eafcbb82f"> Regularziation and gradient checking - PA 1 </a><br>
 ### Convlutional neural networks<br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/83f6ef14424fe5f04add12b78197d9db"> Convolutional Neural Networks: Step by Step - PA 1</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/e5cdb395cb23049869c626a2bc3939f3"> Convolutional Neural Networks: Application - PA 2 - updated 15.3.18</a><br>
