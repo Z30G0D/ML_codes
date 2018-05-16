@@ -16,6 +16,7 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <a href="https://medium.com/@tomernahshon/a-simple-object-detection-convolutional-neural-network-using-tensorflow-9e6490ac68d4">Elipse detector - a blog post</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/7aef18b1407a9cbbf89ff7dc740a3518">Naive Bayes classifier</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/5cf4162b2826e5283c384f7dfbf9a2e7">Coins finder with opencv</a><br>
+<a href=http://nbviewer.jupyter.org/gist/Z30G0D/f98bfde848082297bdeaa54a18e7862f">Simple Random forest regressor</a><br>
 
 ## OpenCV 101: A Practical Guide to the Open Computer Vision Library
 <br>
