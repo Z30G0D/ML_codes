@@ -19,6 +19,9 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <a href=http://nbviewer.jupyter.org/gist/Z30G0D/f98bfde848082297bdeaa54a18e7862f>Simple Random forest regressor</a><br>
 <a href= "http://nbviewer.jupyter.org/gist/Z30G0D/fbc593f0a616bfba43b90a1f6baa3e86">Finding maximum amount of diamonds-Dynamic programming</a><br>
 
+## Probablistic Graphical Models
+<br>
+
 ## OpenCV 101: A Practical Guide to the Open Computer Vision Library
 <br>
 <a href="https://github.com/Z30G0D/ML_codes/blob/master/CASIS-OpenCV_Course_Session1.ipynb"> OpenCV session 1</a><br>
