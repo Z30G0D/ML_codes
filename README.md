@@ -10,7 +10,7 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 
 
 # My online notebooks:
-## Different Challenges from job interviews:
+## Different Challenges :
 <br>
 <a href ="https://medium.com/@tomernahshon/spectral-clustering-from-scratch-38c68968eae0">Spectral Clustering From Scratch - a blog post
 </a><br>
