@@ -12,6 +12,10 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 # My online notebooks:
 ## Different Challenges from job interviews:
 <br>
+<a href ="https://medium.com/@tomernahshon/spectral-clustering-from-scratch-38c68968eae0">Spectral Clustering From Scratch
+</a><br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/a52c1654e03df212bfab2842f472b302">Spectral Clustering From Scratch - Notebook</a>
+<br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/ac0fe3f4ecba5a604841f57c0b04498f"> Elipse detector</a><br>
 <a href="https://medium.com/@tomernahshon/a-simple-object-detection-convolutional-neural-network-using-tensorflow-9e6490ac68d4">Elipse detector - a blog post</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/7aef18b1407a9cbbf89ff7dc740a3518">Naive Bayes classifier</a><br>
