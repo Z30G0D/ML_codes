@@ -27,6 +27,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 
 ## Probablistic Graphical Models
 <br>
+<a href = "https://medium.com/@tomernahshon/the-uncanny-resemblance-probabilistic-graphical-models-and-machine-learning-4b842066731a?source=user_profile---------3------------------"> The uncanny resemblance — Probabilistic Graphical Models and Machine Learning</a>
+<br>
 
 ## OpenCV 101: A Practical Guide to the Open Computer Vision Library
 <br>
