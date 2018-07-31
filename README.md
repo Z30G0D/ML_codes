@@ -16,6 +16,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 -update 15.7.18</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/a52c1654e03df212bfab2842f472b302">Spectral Clustering From Scratch - update 12.7.18</a>
 <br>
+<a href="http://nbviewer.jupyter.org/gist/Z30G0D/4a6bee52508916d8f8de6add7cbaaf8c">Dog breed kaggle competition -temporary 30.7.18</a>
+<br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/ac0fe3f4ecba5a604841f57c0b04498f"> Elipse detector - update 15.5.18</a><br>
 <a href="https://medium.com/@tomernahshon/a-simple-object-detection-convolutional-neural-network-using-tensorflow-9e6490ac68d4">Elipse detector - a blog post</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/7aef18b1407a9cbbf89ff7dc740a3518">Naive Bayes classifier - Word frequency</a><br>
