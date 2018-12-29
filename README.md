@@ -16,6 +16,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/b8b79e061f6d05cbe8df5ec3a8ffefb3"> Japanese letters through Variational AutoEncoder -  second notebook</a>
 <br>
+<a href = "https://medium.com/@tomernahshon/computer-made-japanese-letters-through-variational-autoencoder-2fdb5b6a0990"> Japanese letters through Variational AutoEncoder - blog post</a>
+<br>
 <a href ="https://medium.com/@tomernahshon/spectral-clustering-from-scratch-38c68968eae0">Spectral Clustering From Scratch - a blog post
 -update 15.7.18</a><br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/a52c1654e03df212bfab2842f472b302">Spectral Clustering From Scratch - update 12.7.18</a>
