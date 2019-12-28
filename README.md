@@ -10,6 +10,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 
 
 # My online notebooks:
+## Deep learning by EPFL course (Pytorch course)
+<a href="https://github.com/Z30G0D/Pytorch_Course/tree/master"> A repository containing my notebooks for the pytorch course</a><br>
 ## Different Challenges :
 <br>
 <a href="http://nbviewer.jupyter.org/gist/Z30G0D/6c2369844b1104d0df7c9d56025c7861"> Japanese letters through Variational AutoEncoder - first notebook</a>
