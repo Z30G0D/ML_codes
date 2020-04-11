@@ -11,8 +11,8 @@ Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 
 # My online notebooks:
 ## Interaction Information Vs. Partial Correlation
-<a href ="https://towardsdatascience.com/partial-correlation-vs-conditional-mutual-information-c7feffa9b88e"> Medium post</a><br>
-<a href="https://github.com/Z30G0D/ML_codes/blob/master/Interaction%20Information%20Vs.%20Partial%20Correlation/Interaction%20Information%20Vs.%20Partial%20Correlation.ipynb"> Link To Notebook</a><br>
+<a href ="https://towardsdatascience.com/partial-correlation-vs-conditional-mutual-information-c7feffa9b88e"> Medium post - Update 9.4.20</a><br>
+<a href="https://github.com/Z30G0D/ML_codes/blob/master/Interaction%20Information%20Vs.%20Partial%20Correlation/Interaction%20Information%20Vs.%20Partial%20Correlation.ipynb"> Link To Notebook - Update 9.4.20</a><br>
 ## Deep learning by EPFL course (Pytorch course)
 <a href="https://github.com/Z30G0D/Pytorch_Course/tree/master"> A repository containing my notebooks for the pytorch course</a><br>
 ## Different Challenges :
