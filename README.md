@@ -1,9 +1,7 @@
 # ML_codes
 <br>
-This is my Git repository, mainly composed of ML codes for different assignments
-Most of the exercises currently in this file section  are taken from Andrew NG coursera's machine learning course and other courses I took, plus kaggle competitions, self motivated challenges etc. 
-<br>
-I implemented the codes in Python (The course tasks are in Matlab) and assisted on bits of codes online and added some of my own twists to it.
+This is my Git repository, mainly composed of ML codes for different assignments.<br>
+Most of the exercises currently in this file section  are taken from different courses and self motivated challenges and job interviews assignments( those that can be shared). In my other repos you can see contribution to private projects.
 <br>
 Used Libraries:<br>
 Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
