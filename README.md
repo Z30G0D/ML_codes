@@ -1,13 +1,13 @@
 # ML_codes
 <br>
-This is my Git repository, mainly composed of ML codes for different assignments.<br>
-Most of the exercises currently in this file section  are taken from different courses and self motivated challenges and job interviews assignments( those that can be shared). In my other repos you can see contribution to private projects.
+This is my Git repository, mainly composed of ML/DL codes.<br>
+Most of the exercises currently in this file section  are taken from self motivated challenges and job interviews assignments( those that can be shared) or other courses. In my other repos you can see contribution to private projects.
 <br>
 Used Libraries:<br>
 Scipy, pandas, Scikit learn, Tensorflow, Keras, numpy
 
 
-# My online notebooks:
+# Online notebooks:
 ## Interaction Information Vs. Partial Correlation
 <a href ="https://towardsdatascience.com/partial-correlation-vs-conditional-mutual-information-c7feffa9b88e"> Medium post - Update 9.4.20</a><br>
 <a href="https://github.com/Z30G0D/ML_codes/blob/master/Interaction%20Information%20Vs.%20Partial%20Correlation/Interaction%20Information%20Vs.%20Partial%20Correlation.ipynb"> Link To Notebook - Update 9.4.20</a><br>
