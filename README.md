@@ -1,6 +1,6 @@
-# ML_codes
+# Main_repo_codes
 <br>
-This is my Git repository, mainly composed of ML/DL codes.<br>
+This is my Git repository, mainly composed of ML/DL snippets and code in the open source community.<br>
 Most of the projects currently in this file section  are taken from different aspects of ML field and job interviews assignments( those that can be shared) or other courses/ open source tweaks. In my other repos you can see contribution to private  projects.
 <br>
 Used Libraries:<br>
